@@ -12,6 +12,11 @@ pinned: false
 
 Skin Guardian AI is a production-ready medical computer vision application designed to provide instant screening for common skin conditions. By leveraging Transfer Learning with a ResNet18 architecture, the system classifies skin lesions into five diagnostic categories with high accuracy, bridging the gap between clinical research and accessible web-based healthcare tools.
 
+## Try It Live
+
+- **Frontend**: [https://skin-guardian.streamlit.app](https://skin-guardian.streamlit.app)
+- **Backend API**: [https://acel-01-skin-guardian.hf.space/docs](https://acel-01-skin-guardian.hf.space/docs)
+
 ## Project Overview
 
 Medical imaging data has increased tremendously, making manual inspection a bottleneck for early diagnosis. Skin Guardian AI aims to solve this by providing a high-performance screening tool that can be used from any device.
